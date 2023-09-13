@@ -215,6 +215,11 @@ ol > li {
 </style>
 
 <body>
+    <script>
+        if (window.location.pathname.endsWith('/hello2')) {
+            window.location.href = 'main.html';
+        }
+    </script>
     <p>Welcome to programm</p>
     <p id="textContainer">okay</p>
     <a href="http://192.168.0.105:80/hello">Download Maj++ 9.0</a>
