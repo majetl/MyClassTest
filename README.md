@@ -1,7 +1,7 @@
 # MyClass
 <html>
 <head>
-    <title>GO GUGOL</title>
+    <title>MyClass</title>
 </head>
 <div class="scroller">
     <ol>
