@@ -215,12 +215,15 @@ ol > li {
 </style>
 
 <body>
+    <h1>Hello, World!</h1>
+    
+    <button onclick="openNewScript()">Открыть другой скрипт</button>
+
     <script>
-        if (window.location.pathname.endsWith('/hello2')) {
-            window.location.href = 'main.html';
+        function openNewScript() {
+            window.location.href = 'path/to/other-script.html';
         }
     </script>
-    <p>Welcome to programm</p>
     <p id="textContainer">okay</p>
     <a href="http://192.168.0.105:80/hello">Download Maj++ 9.0</a>
 </body>
