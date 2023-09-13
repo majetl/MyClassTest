@@ -5,7 +5,7 @@
 </head>
 <div class="scroller">
     <ol>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?1](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-1.jpg))">
+        <li style="--bg: url(https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-1.jpg))">
             <h2>Пока пусто</h2>
             <p>Пока пусто</p>
         </li>
