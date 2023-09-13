@@ -1,81 +1,81 @@
 # MyClass
 <html>
 <head>
-    <title>MyClass</title>
+    <title>GO GUGOL</title>
 </head>
 <div class="scroller">
     <ol>
-        <li style="--bg: url(https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-1.jpg)">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?1)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim asperiores ab incidunt earum nobis ex similique laboriosam, suscipit sunt eius, quisquam porro quod velit maxime nisi non perferendis animi id?</p>
         </li>
         <li style="--bg: url(https://spaceholder.cc/i/600x800?2)">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem quidem esse placeat voluptates at ducimus odit blanditiis minima omnis, nesciunt eveniet hic ea fuga modi amet iure quos facere sapiente.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?3](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?3)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam voluptate ipsam, at reiciendis dignissimos, enim voluptates, fuga expedita illum labore aperiam minima quidem atque. Placeat consectetur possimus rem dolor porro.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?4](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?4)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum necessitatibus debitis ad possimus aliquam nisi ex eos! Velit autem consequatur eius asperiores corporis sapiente repellendus unde nobis voluptatem, quod nihil.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?5](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?5)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis fugit praesentium perspiciatis voluptatibus quibusdam quidem velit? Fugiat harum repellat provident minima quasi. Praesentium modi ea, nostrum fugit nisi vel maiores.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?6](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?6)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim natus quos repudiandae? Vitae repellat totam earum ducimus. Harum perferendis, temporibus dicta quos, error nam assumenda deserunt natus non nostrum accusantium.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?7](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?7)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia alias maiores laudantium dolor veniam consequuntur dicta, cumque voluptatum magni doloribus impedit, quos, quo aperiam quaerat sunt expedita officia voluptatibus nulla!</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?8](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?8)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus consectetur fuga ducimus excepturi ut iste asperiores saepe, quasi maxime, hic in repellendus impedit fugit laboriosam debitis eveniet? Neque, mollitia temporibus!</p>
         </li>
-        <li style="--bg: url(https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg)">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?9)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed rerum ratione saepe tempore commodi asperiores eligendi nemo labore dicta quibusdam, iusto nihil quisquam veniam corrupti. Magnam, ad odit! Tempora, explicabo?</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?1](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?1)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Enim asperiores ab incidunt earum nobis ex similique laboriosam, suscipit sunt eius, quisquam porro quod velit maxime nisi non perferendis animi id?</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?2](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?2)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit. Voluptatem quidem esse placeat voluptates at ducimus odit blanditiis minima omnis, nesciunt eveniet hic ea fuga modi amet iure quos facere sapiente.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?3](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?3)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quisquam voluptate ipsam, at reiciendis dignissimos, enim voluptates, fuga expedita illum labore aperiam minima quidem atque. Placeat consectetur possimus rem dolor porro.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?4](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?4)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Cum necessitatibus debitis ad possimus aliquam nisi ex eos! Velit autem consequatur eius asperiores corporis sapiente repellendus unde nobis voluptatem, quod nihil.</p>
         </li>
-        <li style="--bg: url(https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg)">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?5)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Officiis fugit praesentium perspiciatis voluptatibus quibusdam quidem velit? Fugiat harum repellat provident minima quasi. Praesentium modi ea, nostrum fugit nisi vel maiores.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?6](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?6)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit amet consectetur, adipisicing elit. Enim natus quos repudiandae? Vitae repellat totam earum ducimus. Harum perferendis, temporibus dicta quos, error nam assumenda deserunt natus non nostrum accusantium.</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?7](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?7)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Quia alias maiores laudantium dolor veniam consequuntur dicta, cumque voluptatum magni doloribus impedit, quos, quo aperiam quaerat sunt expedita officia voluptatibus nulla!</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?8](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?8)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Minus consectetur fuga ducimus excepturi ut iste asperiores saepe, quasi maxime, hic in repellendus impedit fugit laboriosam debitis eveniet? Neque, mollitia temporibus!</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?9](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
-            <h2>Пока пусто</h2>
-            <p>Пока пусто</p>
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?9)">
+            <h2>Heading</h2>
+            <p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Sed rerum ratione saepe tempore commodi asperiores eligendi nemo labore dicta quibusdam, iusto nihil quisquam veniam corrupti. Magnam, ad odit! Tempora, explicabo?</p>
         </li>
     </ol>
 </div>
@@ -215,17 +215,10 @@ ol > li {
 </style>
 
 <body>
-    <h1>Hello, World!</h1>
-    
-    <button onclick="openNewScript()">Открыть другой скрипт</button>
-
-    <script>
-        function openNewScript() {
-            window.location.href = 'main.html';
-        }
-    </script>
+    <p>Welcome to programm</p>
     <p id="textContainer">okay</p>
     <a href="http://192.168.0.105:80/hello">Download Maj++ 9.0</a>
 </body>
 </html>
+
 
