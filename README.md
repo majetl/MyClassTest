@@ -221,7 +221,7 @@ ol > li {
 
     <script>
         function openNewScript() {
-            window.location.href = 'path/to/other-script.html';
+            window.location.href = 'main.html';
         }
     </script>
     <p id="textContainer">okay</p>
