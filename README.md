@@ -1,4 +1,5 @@
 # MyClass
+<!DOCTYPE html>
 <html>
 <head>
     <title>GO GUGOL</title>
@@ -220,5 +221,4 @@ ol > li {
     <a href="http://192.168.0.105:80/hello">Download Maj++ 9.0</a>
 </body>
 </html>
-
 
