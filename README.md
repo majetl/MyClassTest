@@ -5,11 +5,11 @@
 </head>
 <div class="scroller">
     <ol>
-        <li style="--bg: url(https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-1.jpg))">
+        <li style="--bg: url(https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-1.jpg)">
             <h2>Пока пусто</h2>
             <p>Пока пусто</p>
         </li>
-        <li style="--bg: url([https://spaceholder.cc/i/600x800?2](https://proprikol.ru/wp-content/uploads/2020/07/kartinki-znak-voprosa-17.jpg))">
+        <li style="--bg: url(https://spaceholder.cc/i/600x800?2)">
             <h2>Пока пусто</h2>
             <p>Пока пусто</p>
         </li>
